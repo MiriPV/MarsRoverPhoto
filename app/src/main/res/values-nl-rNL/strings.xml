@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NASA Mars Rover Foto App</string>
+    <string name="Photo_Rover_Mars">Foto gemaakt door een rover op Mars</string>
+    <string name="curiosity">Curiosity</string>
+    <string name="opportunity">Opportunity</string>
+    <string name="spirit">Spirit</string>
+    <string name="image_id">"Foto ID: "</string>
+    <string name="sol_day">"Sol dag: "</string>
+    <string name="rover_name">"Rover: "</string>
+    <string name="earth_day">"Aarde dag: "</string>
+    <string name="camera_name">"Camera: "</string>
+    <string name="photos_loaded">" foto's geladen, "</string>
+    <string name="has_made">" heeft "</string>
+    <string name="total_photos">" foto\'s gemaakt in totaal."</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/curiosity"
+        android:title="@string/curiosity"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/opportunity"
+        android:title="@string/opportunity"
+        app:showAsAction="never"/>
+
+    <item android:id="@+id/spirit"
+        android:title="@string/spirit"
+        app:showAsAction="never"/>
+</menu>
